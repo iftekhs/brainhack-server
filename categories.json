@@ -1,0 +1,27 @@
+[
+    {
+    "id": "01",
+    "name": "Programming Languages"
+    },
+    {
+    "id": "02",
+    "name": "Web Development"
+    },
+    {
+    "id": "03",
+    "name": "Mobile Development"
+    },
+    {
+    "id": "04",
+    "name": "Popular Stacks"
+    },
+
+    {
+    "id": "05",
+    "name": "Data Structure & Algorithms"
+    },
+    {
+    "id": "06",
+    "name": "Machine Learning"
+    }
+]
