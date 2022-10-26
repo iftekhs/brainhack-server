@@ -18,11 +18,15 @@ app.get('/categories/all', (req, res) => {
 
 app.get('/courses/:id', (req, res) => {
   const id = req.params.id;
+  const coursesCategory = categories.find((category) => category._id === id);
+
   if (id === '00') {
-    return res.send(courses);
+    return res.send({ courses, coursesCategory });
   }
-  const categoryCourses = courses.filter((course) => course.category_id === id);
-  res.send(categoryCourses);
+
+  const filteredCourses = courses.filter((course) => course.category_id === id);
+
+  res.send({ courses: filteredCourses, coursesCategory });
 });
 
 app.listen(port, () => {
