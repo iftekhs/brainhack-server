@@ -1,8 +1,74 @@
 [
     {
-        "_id": "9pb8uwguwobgjkwlfwglgwpoeg",
+        "_id": "6358bd3f56e101022e155b70",
+        "category_id": "01",
         "title": "2022 Complete Bootcamp From Zero to Hero in Python",
         "description": "Learn Python like a Professional Start from the basics and go all the way to creating your own applications and games",
-        "thumbnail_url" : "https://www.udemy.com/course/complete-python-bootcamp/"
+        "thumbnail_url" : "https://www.udemy.com/course/complete-python-bootcamp/",
+        "price": 89.99
+    },
+    {
+        "_id": "6358bd48aa29e5619488ad86",
+        "category_id": "01",
+        "title": "The Complete JavaScript Course 2022: From Zero to Expert!",
+        "description": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!",
+        "thumbnail_url" : "https://www.udemy.com/course/the-complete-javascript-course/",
+        "price": 99.99
+    },
+    {
+        "_id": "6358bdb1863e77d72bf3c17e",
+        "category_id": "02",
+        "title": "The Complete 2022 Web Development Bootcamp",
+        "description": "Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, MongoDB, Web3 and DApps",
+        "thumbnail_url" : "https://www.udemy.com/course/the-complete-web-development-bootcamp/",
+        "price": 88.99
+    },
+    {
+        "_id": "6358bdb1863e77d72bf3c17e",
+        "category_id": "02",
+        "title": "React - The Complete Guide (incl Hooks, React Router, Redux)",
+        "description": "Dive in and learn React.js from scratch! Learn Reactjs, Hooks, Redux, React Routing, Animations, Next.js and way more!",
+        "thumbnail_url" : "https://www.udemy.com/course/the-complete-web-development-bootcamp/",
+        "price": 79.99
+    },
+    {
+        "_id": "6358bdb1863e77d72bf3c17e",
+        "category_id": "02",
+        "title": "PHP with Laravel for beginners - Become a Master in Laravel",
+        "description": "Learn to master Laravel to make advanced applications like the real CMS app we build on this course",
+        "thumbnail_url" : "https://www.udemy.com/course/the-complete-web-development-bootcamp/",
+        "price": 84.99
+    },
+    {
+        "_id": "6358bdb1863e77d72bf3c17e",
+        "category_id": "03",
+        "title": "iOS & Swift - The Complete iOS App Development Bootcamp",
+        "description": "From Beginner to iOS App Developer with Just One Course! Fully Updated with a Comprehensive Module Dedicated to SwiftUI!",
+        "thumbnail_url" : "https://www.udemy.com/course/the-complete-web-development-bootcamp/",
+        "price": 99.99
+    },
+    {
+        "_id": "6358bdb1863e77d72bf3c17e",
+        "category_id": "03",
+        "title": "The Complete 2021 Flutter Development Bootcamp with Dart",
+        "description": "Officially created in collaboration with the Google Flutter team.",
+        "thumbnail_url" : "https://www.udemy.com/course/the-complete-web-development-bootcamp/",
+        "price": 84.99
+    },
+    {
+        "_id": "6358bdb1863e77d72bf3c17e",
+        "category_id": "04",
+        "title": "React, NodeJS, Express & MongoDB - The MERN Fullstack Guide",
+        "description": "Build fullstack React.js applications with Node.js, Express.js & MongoDB (MERN) with this project-focused course.",
+        "thumbnail_url" : "https://www.udemy.com/course/the-complete-web-development-bootcamp/",
+        "price": 84.99
+    },
+    {
+        "_id": "6358bdb1863e77d72bf3c17e",
+        "category_id": "04",
+        "title": "Angular & NodeJS - The MEAN Stack Guide [2022 Edition]",
+        "description": "Learn how to connect your Angular Frontend to a NodeJS & Express & MongoDB Backend by building a real Application",
+        "thumbnail_url" : "https://www.udemy.com/course/the-complete-web-development-bootcamp/",
+        "price": 84.99
     }
 ]
